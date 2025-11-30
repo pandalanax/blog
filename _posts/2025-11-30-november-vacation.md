@@ -36,9 +36,9 @@ Down Dog is a yoga app that lets you customise every practice. You can activate 
 I've been enjoying the [Bone comics](https://en.wikipedia.org/wiki/Bone_(comics)) lately.
 
 # Summer Vacation photos
-![Beach](/assets/nov_beach.JPG)
+![Beach](/assets/nov_beach.jpg)
 _Olympus Trip 35 with AGFAPHOTO APX 400_
 
-![Beach 2](/assets/nov_beach2.JPG)
+![Beach 2](/assets/nov_beach2.jpg)
 _Olympus Trip 35 with AGFAPHOTO APX 400_
 
