@@ -34,6 +34,8 @@
             # Additional utilities
             git
             nodejs-slim
+            imagemagick
+            exiftool
           ];
 
         };
