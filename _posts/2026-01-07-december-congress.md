@@ -3,7 +3,7 @@ layout: post
 title: December Congress
 date: 2026-01-07 07:23 +0100
 image:
-  path: /assets/december.JPG
+  path: /assets/december.jpg
   alt: 
 ---
 # Sponsoring
